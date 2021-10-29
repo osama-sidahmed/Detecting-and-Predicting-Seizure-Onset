@@ -1,4 +1,4 @@
-# capstone
+# Detecting and Predicting Seizure Onset
 This repo contains the code of a capstone project I completed during my study of Data Science Diploma at BrainStation on 2021.
 
 Title: Detecting and Predicting Seizure Onset
