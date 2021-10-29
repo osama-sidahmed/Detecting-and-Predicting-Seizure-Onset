@@ -3,7 +3,7 @@ This repo contains the code of a capstone project I completed during my study of
 
 Title: Detecting and Predicting Seizure Onset
 Date: Apr 2021
-The project objective is to use machine learning to detect and predict seizure onset using patient brain wave activity in real-time.
+The project objective is to use machine learning and deep learning to detect and predict seizure onset using patient brain wave activity in real-time.
 Tools used: MNE, Python, SKLearn, TensorFlow, Tkinter.
 
 
